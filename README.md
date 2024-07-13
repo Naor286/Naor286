@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computers, Photography and Cycling
 - 🌱 I’m currently learning KiCAD, C++, HTML and PHP
 - 💞️ I’m looking to collaborate on making circuit boards
-- 📫 How to reach me ... ikgames286@gmail.com
+- 📫 How to reach me ... ismailkatrag@gmail.com
 
 
 
